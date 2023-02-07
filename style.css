@@ -1,0 +1,13 @@
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+#name{
+    color: brown;
+    font-size: 20px;
+}
+#average{
+    color: blue;
+    font-size: 20px;
+}
